@@ -29,3 +29,7 @@ scripts/train_omni_fea/train_fea_codec.sh
 
 # Acknowledgments
 Codebase from <a href="https://github.com/xyupeng/ContrastiveCrop">ContrastiveCrop</a>, <a href="https://github.com/damo-cv/entroformer">Entroformer</a> and <a href="https://arxiv.org/abs/2207.01932">Omni-ICM</a>.
+
+# Citation
+Please cite the following paper if you use the code or feel it useful:  
+Zhisen Tang, Xiaokai Yi and Hanli Wang. Towards Learned Image Compression for Multiple Semantic Analysis Tasks, IEEE Transactions on Broadcasting, accepted, 2025.

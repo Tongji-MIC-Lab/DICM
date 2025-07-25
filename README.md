@@ -1,4 +1,4 @@
-# DICM
+# DICM: Towards Learned Image Compression for Multiple Semantic Analysis Tasks
 Pytorch code of our recent work "Towards Learned Image Compression for Multiple Intelligent Semantic Analysis Tasks."
 
 # Overview

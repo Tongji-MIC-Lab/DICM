@@ -21,4 +21,4 @@ scripts/train_omni_fea/train_omni.sh
 scripts/train_omni_fea/train_fea_codec.sh 
 
 ## Acknowledgments
-Codebase from <a href="https://github.com/xyupeng/ContrastiveCrop">ContrastiveCrop</a>, <a href="https://github.com/damo-cv/entroformer">Entroformer</a> and <a href="https://faculty.ustc.edu.cn/chenzhibo/zh_CN/zdylm/684496/list/index.htm">Omni-ICM</a>.
+Codebase from <a href="https://github.com/xyupeng/ContrastiveCrop">ContrastiveCrop</a>, <a href="https://github.com/damo-cv/entroformer">Entroformer</a> and <a href="https://arxiv.org/abs/2207.01932">Omni-ICM</a>.

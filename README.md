@@ -2,7 +2,7 @@
 Pytorch code of our recent work "Towards Learned Image Compression for Multiple Intelligent Semantic Analysis Tasks."
 
 # Overview
-The overall framework of DICM![overview](https://github.com/Tongji-MIC-Lab/DICM/overview.jpg)
+The overall framework of DICM![overview](https://github.com/Tongji-MIC-Lab/DICM/tree/main/overview.jpg)
 
 
 # Abstract

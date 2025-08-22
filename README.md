@@ -28,6 +28,9 @@ scripts/train_omni_fea/train_omni.sh
 4. All parameters except those of the compressed network are frozen, and the following command is used to train the compressed network
 scripts/train_omni_fea/train_fea_codec.sh 
 
+# Evaluation
+python main_lincls.py
+
 # Acknowledgments
 Codebase from <a href="https://github.com/xyupeng/ContrastiveCrop">ContrastiveCrop</a>, <a href="https://github.com/damo-cv/entroformer">Entroformer</a> and <a href="https://arxiv.org/abs/2207.01932">Omni-ICM</a>.
 
